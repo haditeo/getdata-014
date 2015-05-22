@@ -13,3 +13,38 @@ Activity
   * STANDING .The person stands
   * LAYING .The person lays himself/herself down
 
+avg_of_tBodyAcc_mean_X
+* The average value of tBodyAcc_mean_X
+  *0..1 Number
+
+avg_of_tBodyAcc_mean_Y
+* The average value of tBodyAcc_mean_Y
+  *0..1 Number
+
+avg_of_tBodyAcc_mean_Z
+* The average value of tBodyAcc_mean_Z
+  *0..1 Number
+
+avg_of_tBodyAcc_std_X
+* The average value of tBodyAcc_std_X
+  *0..1 Number
+
+avg_of_tBodyAcc_std_Y
+* The average value of tBodyAcc_std_Y
+  *0..1 Number
+
+avg_of_tBodyAcc_std_Z
+* The average value of tBodyAcc_std_Z
+  *0..1 Number
+
+avg_of_tGravityAcc_mean_X
+* The average value of tGravityAcc_mean_X
+  *0..1 Number
+
+avg_of_tGravityAcc_mean_Y
+* The average value of tGravityAcc_mean_Y
+  *0..1 Number
+
+avg_of_tGravityAcc_mean_Z
+* The average value of tGravityAcc_mean_Z
+  *0..1 Number
