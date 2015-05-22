@@ -209,5 +209,38 @@ avg_of_fBodyAccJerk_mean_Z
 * The average value of fBodyAccJerk_mean_Z
   * 0..1 Number
 
+avg_of_fBodyAccJerk_std_X
+* The average value of fBodyAccJerk_std_X
+  * 0..1 Number
 
+avg_of_fBodyAccJerk_std_Y
+* The average value of fBodyAccJerk_std_Y
+  * 0..1 Number
 
+avg_of_fBodyAccJerk_std_Z
+* The average value of fBodyAccJerk_std_Z
+  * 0..1 Number
+
+avg_of_fBodyGyro_mean_X
+* The average value of fBodyGyro_mean_X
+  * 0..1 Number
+
+avg_of_fBodyGyro_mean_Y
+* The average value of fBodyGyro_mean_Y
+  * 0..1 Number
+
+avg_of_fBodyGyro_mean_Z
+* The average value of fBodyGyro_mean_Z
+  * 0..1 Number
+
+avg_of_fBodyGyro_std_X
+* The average value of fBodyGyro_std_X
+  * 0..1 Number
+
+avg_of_fBodyGyro_std_Y
+* The average value of fBodyGyro_std_Y
+  * 0..1 Number
+
+avg_of_fBodyGyro_std_Z
+* The average value of fBodyGyro_std_Z
+  * 0..1 Number
