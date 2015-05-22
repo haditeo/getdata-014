@@ -244,3 +244,37 @@ avg_of_fBodyGyro_std_Y
 avg_of_fBodyGyro_std_Z
 * The average value of fBodyGyro_std_Z
   * 0..1 Number
+
+avg_of_fBodyAccMag_mean
+* The average value of fBodyAccMag_mean
+  * 0..1 Number
+ 
+avg_of_fBodyAccMag_std
+* The average value of fBodyAccMag_std
+  * 0..1 Number 
+
+avg_of_fBodyAccJerkMag_mean
+* The average value of fBodyAccJerkMag_mean
+  * 0..1 Number
+
+avg_of_fBodyAccJerkMag_std
+* The average value of fBodyAccJerkMag_std
+  * 0..1 Number
+
+avg_of_fBodyBodyGyroMag_mean
+* The average value of fBodyBodyGyroMag_mean
+  * 0..1 Number
+
+avg_of_fBodyBodyGyroMag_std
+* The average value of fBodyBodyGyroMag_std
+  * 0..1 Number
+
+avg_of_fBodyBodyGyroJerkMag_mean
+* The average value of fBodyBodyGyroJerkMag_mean
+  * 0..1 Number
+
+avg_of_fBodyBodyGyroJerkMag_std
+* The average value of fBodyBodyGyroJerkMag_std
+  * 0..1 Number
+
+
