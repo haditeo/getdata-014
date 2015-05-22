@@ -48,3 +48,40 @@ avg_of_tGravityAcc_mean_Y
 avg_of_tGravityAcc_mean_Z
 * The average value of tGravityAcc_mean_Z
   * 0..1 Number
+
+avg_of_tGravityAcc_std_X
+* The average value of tGravityAcc_std_X
+  * 0..1 Number
+
+avg_of_tGravityAcc_std_Y
+* The average value of tGravityAcc_std_Y
+  * 0..1 Number
+
+avg_of_tGravityAcc_std_Z
+* The average value of tGravityAcc_std_Z
+  * 0..1 Number
+
+avg_of_tGravityAccJerk_mean_X
+* The average value of tGravityAccJerk_mean_X
+  * 0..1 Number
+
+avg_of_tGravityAccJerk_mean_Y
+* The average value of tGravityAccJerk_mean_Y
+  * 0..1 Number
+
+avg_of_tGravityAccJerk_mean_Z
+* The average value of tGravityAccJerk_mean_Z
+  * 0..1 Number
+
+avg_of_tGravityAccJerk_std_X
+* The average value of tGravityAccJerk_std_X
+  * 0..1 Number
+
+avg_of_tGravityAccJerk_std_Y
+* The average value of tGravityAccJerk_std_Y
+  * 0..1 Number
+
+avg_of_tGravityAccJerk_std_Z
+* The average value of tGravityAccJerk_std_Z
+  * 0..1 Number
+
