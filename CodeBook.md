@@ -85,3 +85,55 @@ avg_of_tGravityAccJerk_std_Z
 * The average value of tGravityAccJerk_std_Z
   * 0..1 Number
 
+avg_of_tBodyGyro_mean_X
+* The average value of tBodyGyro_mean_X
+  * 0..1 Number
+
+avg_of_tBodyGyro_mean_Y
+* The average value of tBodyGyro_mean_Y
+  * 0..1 Number
+
+avg_of_tBodyGyro_mean_Z
+* The average value of tBodyGyro_mean_Z
+  * 0..1 Number
+
+avg_of_tBodyGyro_std_X
+* The average value of tBodyGyro_std_X
+  * 0..1 Number
+
+avg_of_tBodyGyro_std_Y
+* The average value of tBodyGyro_std_Y
+  * 0..1 Number
+
+avg_of_tBodyGyro_std_Z
+* The average value of tBodyGyro_std_Z
+  * 0..1 Number
+
+avg_of_tBodyGyroJerk_mean_X
+* The average value of tBodyGyroJerk_mean_X
+  * 0..1 Number
+
+avg_of_tBodyGyroJerk_mean_Y
+* The average value of tBodyGyroJerk_mean_Y
+  * 0..1 Number
+
+avg_of_tBodyGyroJerk_mean_Z
+* The average value of tBodyGyroJerk_mean_Z
+  * 0..1 Number
+
+avg_of_tBodyGyroJerk_std_X
+* The average value of tBodyGyroJerk_std_X
+  * 0..1 Number
+
+avg_of_tBodyGyroJerk_std_Y
+* The average value of tBodyGyroJerk_std_Y
+  * 0..1 Number
+
+avg_of_tBodyGyroJerk_std_Z
+* The average value of tBodyGyroJerk_std_Z
+  * 0..1 Number
+
+
+
+
+
