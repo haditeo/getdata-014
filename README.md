@@ -21,4 +21,12 @@ The strategy is to combine subject_train.txt, X_train.txt and y_train.txt into a
 
 The same strategy is also enforced in combining subject_test.txt, X_test.txt and y_test.txt into a single dataset called subject_X_y_test.
 
-Since both dataset subject_
+Since both dataset subject_X_y_train and subject_X_y_test have the same number of columns or same schema, those can be merged into a single dataset by using rbind() method. The result of the dataset is subject_X_y.
+
+After the dataset is merged, the actual column names are configured by using colnames() method. This is performed so that it is easier for user to identify the actual measurements.
+
+Subsequently the dataset (subject_X_y) is grouped by SubjectID and followed by ActivityType in order to see the average value of each measurements using group_by() method followed by summarise() method. The result is stored in the tidy_data_set_raw.
+
+In order to replace the ActivityID with more verbose name, the dataset (tidy_data_set_raw) is inner joined with activity_labels using inner_join() method.
+
+Eventually the tidy data set is stored into tidy_data_set. The result is written into text file using write.table() method
